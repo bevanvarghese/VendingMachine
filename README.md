@@ -1,2 +1,2 @@
 # VendingMachine
-A text-based vending machine 
+A text-based vending machine implementation
